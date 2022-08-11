@@ -2,3 +2,4 @@
 
 irisDatabase <- iris
 head(irisDatabase)
+summary(irisDatabase)
